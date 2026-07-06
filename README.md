@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adiunderprogress/Leetcode/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adiunderprogress/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adiunderprogress/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0146-lru-cache) |
 ## String
 |  |
 | ------- |
@@ -124,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Adiunderprogress/Leetcode/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Adiunderprogress/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/Adiunderprogress/Leetcode/tree/master/1193-monthly-transactions-i) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
