@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adiunderprogress/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adiunderprogress/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0485-max-consecutive-ones](https://github.com/Adiunderprogress/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1288-remove-covered-intervals](https://github.com/Adiunderprogress/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Adiunderprogress/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1470-shuffle-the-array](https://github.com/Adiunderprogress/Leetcode/tree/master/1470-shuffle-the-array) |
