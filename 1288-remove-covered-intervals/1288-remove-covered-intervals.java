@@ -14,7 +14,7 @@ class Solution {
         int maxEnd = 0;
         
         for (int[] interval : intervals) {
-            // If the current interval's end fits within the maxEnd seen so far, 
+            // If the current interval's end fits within the maxEnd seen so far,
             // it is completely covered because its start is >= previous start.
             if (interval[1] <= maxEnd) {
                 continue; // Covered, skip it
