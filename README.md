@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adiunderprogress/Leetcode/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0460-lfu-cache) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adiunderprogress/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adiunderprogress/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0460-lfu-cache) |
 ## String
 |  |
 | ------- |
@@ -130,8 +132,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
