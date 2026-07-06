@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adiunderprogress/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adiunderprogress/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1288-remove-covered-intervals](https://github.com/Adiunderprogress/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Adiunderprogress/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Adiunderprogress/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Adiunderprogress/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Adiunderprogress/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/Adiunderprogress/Leetcode/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
