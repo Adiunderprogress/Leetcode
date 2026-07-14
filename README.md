@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Adiunderprogress/Leetcode/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/Adiunderprogress/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Adiunderprogress/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Adiunderprogress/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adiunderprogress/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Adiunderprogress/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Adiunderprogress/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/Adiunderprogress/Leetcode/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Adiunderprogress/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1331-rank-transform-of-an-array](https://github.com/Adiunderprogress/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adiunderprogress/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/Adiunderprogress/Leetcode/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/Adiunderprogress/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Adiunderprogress/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adiunderprogress/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Adiunderprogress/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
