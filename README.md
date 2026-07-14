@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Adiunderprogress/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Adiunderprogress/Leetcode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/Adiunderprogress/Leetcode/tree/master/0263-ugly-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Adiunderprogress/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/Adiunderprogress/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adiunderprogress/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adiunderprogress/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Adiunderprogress/Leetcode/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0460-lfu-cache) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Adiunderprogress/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## String
 |  |
 | ------- |
