@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Adiunderprogress/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Adiunderprogress/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Adiunderprogress/Leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Adiunderprogress/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Adiunderprogress/Leetcode/tree/master/0058-length-of-last-word) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adiunderprogress/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Adiunderprogress/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adiunderprogress/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Adiunderprogress/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Adiunderprogress/Leetcode/tree/master/0022-generate-parentheses) |
 | [1301-number-of-paths-with-max-score](https://github.com/Adiunderprogress/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adiunderprogress/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Adiunderprogress/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
