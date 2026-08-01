@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Adiunderprogress/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Adiunderprogress/Leetcode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/Adiunderprogress/Leetcode/tree/master/0263-ugly-number) |
+| [0486-predict-the-winner](https://github.com/Adiunderprogress/Leetcode/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/Adiunderprogress/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Adiunderprogress/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adiunderprogress/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adiunderprogress/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Adiunderprogress/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0486-predict-the-winner](https://github.com/Adiunderprogress/Leetcode/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Adiunderprogress/Leetcode/tree/master/0068-text-justification) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adiunderprogress/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Adiunderprogress/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Adiunderprogress/Leetcode/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/Adiunderprogress/Leetcode/tree/master/0645-set-mismatch) |
 | [1260-shift-2d-grid](https://github.com/Adiunderprogress/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Adiunderprogress/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Adiunderprogress/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Adiunderprogress/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Adiunderprogress/Leetcode/tree/master/0022-generate-parentheses) |
+| [0486-predict-the-winner](https://github.com/Adiunderprogress/Leetcode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Adiunderprogress/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adiunderprogress/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -292,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Adiunderprogress/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
