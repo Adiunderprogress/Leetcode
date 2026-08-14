@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Adiunderprogress/Leetcode/tree/master/0068-text-justification) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0321-create-maximum-number](https://github.com/Adiunderprogress/Leetcode/tree/master/0321-create-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adiunderprogress/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Adiunderprogress/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Adiunderprogress/Leetcode/tree/master/0486-predict-the-winner) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Adiunderprogress/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Adiunderprogress/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Adiunderprogress/Leetcode/tree/master/0018-4sum) |
+| [0321-create-maximum-number](https://github.com/Adiunderprogress/Leetcode/tree/master/0321-create-maximum-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Adiunderprogress/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adiunderprogress/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adiunderprogress/Leetcode/tree/master/0011-container-with-most-water) |
+| [0321-create-maximum-number](https://github.com/Adiunderprogress/Leetcode/tree/master/0321-create-maximum-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adiunderprogress/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1383-maximum-performance-of-a-team](https://github.com/Adiunderprogress/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adiunderprogress/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -313,12 +316,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Adiunderprogress/Leetcode/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Adiunderprogress/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adiunderprogress/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Adiunderprogress/Leetcode/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Adiunderprogress/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adiunderprogress/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
