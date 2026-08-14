@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Adiunderprogress/Leetcode/tree/master/0018-4sum) |
 | [0066-plus-one](https://github.com/Adiunderprogress/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Adiunderprogress/Leetcode/tree/master/0068-text-justification) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adiunderprogress/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Adiunderprogress/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Adiunderprogress/Leetcode/tree/master/0486-predict-the-winner) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adiunderprogress/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Adiunderprogress/Leetcode/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Adiunderprogress/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
