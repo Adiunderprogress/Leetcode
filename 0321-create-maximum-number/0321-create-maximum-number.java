@@ -4,7 +4,6 @@ class Solution {
         int n = nums2.length;
         int[] result = new int[k];
 
-        // i represents the number of elements picked from nums1
         int start = Math.max(0, k - n);
         int end = Math.min(k, m);
 
@@ -21,7 +20,6 @@ class Solution {
         return result;
     }
 
-    // Helper: Finds the lexicographically largest subsequence of length len
     private int[] maxSubsequence(int[] nums, int len) {
         int[] stack = new int[len];
         int top = 0;
@@ -41,7 +39,6 @@ class Solution {
         return stack;
     }
 
-    // Helper: Merges two arrays into the lexicographically largest sequence of length k
     private int[] merge(int[] nums1, int[] nums2, int k) {
         int[] merged = new int[k];
         int i = 0, j = 0, r = 0;
@@ -56,7 +53,6 @@ class Solution {
         return merged;
     }
 
-    // Helper: Lexicographical comparison between suffixes of two arrays
     private boolean isGreater(int[] nums1, int i, int[] nums2, int j) {
         while (i < nums1.length && j < nums2.length && nums1[i] == nums2[j]) {
             i++;
