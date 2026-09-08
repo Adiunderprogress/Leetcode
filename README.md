@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Adiunderprogress/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Adiunderprogress/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Adiunderprogress/Leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Adiunderprogress/Leetcode/tree/master/0645-set-mismatch) |
 | [1140-stone-game-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Adiunderprogress/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Adiunderprogress/Leetcode/tree/master/0506-relative-ranks) |
 | [1383-maximum-performance-of-a-team](https://github.com/Adiunderprogress/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adiunderprogress/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Adiunderprogress/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Adiunderprogress/Leetcode/tree/master/0018-4sum) |
+| [0506-relative-ranks](https://github.com/Adiunderprogress/Leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Adiunderprogress/Leetcode/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/Adiunderprogress/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Adiunderprogress/Leetcode/tree/master/1331-rank-transform-of-an-array) |
