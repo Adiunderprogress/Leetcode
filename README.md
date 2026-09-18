@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adiunderprogress/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Adiunderprogress/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Adiunderprogress/Leetcode/tree/master/0013-roman-to-integer) |
+| [0127-word-ladder](https://github.com/Adiunderprogress/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Adiunderprogress/Leetcode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Adiunderprogress/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Adiunderprogress/Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Adiunderprogress/Leetcode/tree/master/0068-text-justification) |
 | [0115-distinct-subsequences](https://github.com/Adiunderprogress/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/Adiunderprogress/Leetcode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Adiunderprogress/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adiunderprogress/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Adiunderprogress/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Adiunderprogress/Leetcode/tree/master/0133-clone-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Adiunderprogress/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Adiunderprogress/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -496,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Adiunderprogress/Leetcode/tree/master/0836-rectangle-overlap) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Adiunderprogress/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
