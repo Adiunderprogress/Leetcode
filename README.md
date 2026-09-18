@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Adiunderprogress/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Adiunderprogress/Leetcode/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/Adiunderprogress/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adiunderprogress/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/Adiunderprogress/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Adiunderprogress/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Adiunderprogress/Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Adiunderprogress/Leetcode/tree/master/0068-text-justification) |
 | [0115-distinct-subsequences](https://github.com/Adiunderprogress/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0205-isomorphic-strings](https://github.com/Adiunderprogress/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adiunderprogress/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Adiunderprogress/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
