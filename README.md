@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adiunderprogress/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Adiunderprogress/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1563-stone-game-v](https://github.com/Adiunderprogress/Leetcode/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adiunderprogress/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Adiunderprogress/Leetcode/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Adiunderprogress/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adiunderprogress/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Adiunderprogress/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adiunderprogress/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Adiunderprogress/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adiunderprogress/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adiunderprogress/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adiunderprogress/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adiunderprogress/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adiunderprogress/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adiunderprogress/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adiunderprogress/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adiunderprogress/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adiunderprogress/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adiunderprogress/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Adiunderprogress/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adiunderprogress/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adiunderprogress/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adiunderprogress/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Adiunderprogress/Leetcode/tree/master/1872-stone-game-viii) |
 | [2485-find-the-pivot-integer](https://github.com/Adiunderprogress/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
