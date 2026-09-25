@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Adiunderprogress/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Adiunderprogress/Leetcode/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Adiunderprogress/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Adiunderprogress/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adiunderprogress/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Adiunderprogress/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Adiunderprogress/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adiunderprogress/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Adiunderprogress/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Adiunderprogress/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Adiunderprogress/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Adiunderprogress/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Adiunderprogress/Leetcode/tree/master/0133-clone-graph) |
+| [1096-brace-expansion-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Adiunderprogress/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Adiunderprogress/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Adiunderprogress/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Adiunderprogress/Leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Adiunderprogress/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Adiunderprogress/Leetcode/tree/master/0645-set-mismatch) |
+| [1096-brace-expansion-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Adiunderprogress/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Adiunderprogress/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adiunderprogress/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adiunderprogress/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adiunderprogress/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -457,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adiunderprogress/Leetcode/tree/master/0022-generate-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Adiunderprogress/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
 |  |
